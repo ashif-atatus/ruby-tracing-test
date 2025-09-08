@@ -1,0 +1,14 @@
+services:
+  rails-service:
+    build:
+      context: rails-service
+      dockerfile: Dockerfile
+    ports:
+      - "5001:3000"
+    volumes:
+      - ./rails-service/atatus.log:/rails/atatus.log
+    env_file:
+      - .env
+    environment:
+      - PORT=5001
+

@@ -1,0 +1,35 @@
+D, [2025-09-08T11:17:17.000002 #29] DEBUG -- : [Atatus] Collecting metrics
+D, [2025-09-08T11:17:21.993459 #29] DEBUG -- : [Atatus] Stopping metrics
+D, [2025-09-08T11:17:21.993736 #29] DEBUG -- : [Atatus] Stopping instrumenter
+D, [2025-09-08T11:17:21.993952 #29] DEBUG -- : [Atatus] [PID:29]: Waiting for collector worker to exit
+I, [2025-09-08T11:17:25.013325 #8]  INFO -- : [2.0.3] Starting atatus ruby agent
+D, [2025-09-08T11:17:25.013467 #8] DEBUG -- : [Atatus] [PID:8]: Starting collector
+D, [2025-09-08T11:17:25.013554 #8] DEBUG -- : [Atatus] Starting instrumenter
+D, [2025-09-08T11:17:25.013747 #8] DEBUG -- : [Atatus] Adding metrics collector 'Atatus::Metrics::CpuMemSet'
+D, [2025-09-08T11:17:25.013685 #8] DEBUG -- : [Atatus] [PID:8]: Starting collector worker
+D, [2025-09-08T11:17:25.015626 #8] DEBUG -- : [Atatus] Adding metrics collector 'Atatus::Metrics::VMSet'
+D, [2025-09-08T11:17:25.015666 #8] DEBUG -- : [Atatus] Adding metrics collector 'Atatus::Metrics::BreakdownSet'
+D, [2025-09-08T11:17:25.015707 #8] DEBUG -- : [Atatus] Adding metrics collector 'Atatus::Metrics::TransactionSet'
+D, [2025-09-08T11:17:25.015728 #8] DEBUG -- : [Atatus] Starting metrics
+D, [2025-09-08T11:17:25.016344 #8] DEBUG -- : [Atatus] Collecting metrics
+D, [2025-09-08T11:17:25.023294 #8] DEBUG -- : [Atatus] Registering ActiveSupport::Notifications subscriber
+D, [2025-09-08T11:17:25.657484 #8] DEBUG -- : [Atatus] Stopping metrics
+D, [2025-09-08T11:17:25.657685 #8] DEBUG -- : [Atatus] Stopping instrumenter
+D, [2025-09-08T11:17:25.657872 #8] DEBUG -- : [Atatus] [PID:8]: Waiting for collector worker to exit
+I, [2025-09-08T11:17:31.424914 #29]  INFO -- : [2.0.3] Starting atatus ruby agent
+D, [2025-09-08T11:17:31.425024 #29] DEBUG -- : [Atatus] [PID:29]: Starting collector
+D, [2025-09-08T11:17:31.425127 #29] DEBUG -- : [Atatus] Starting instrumenter
+D, [2025-09-08T11:17:31.425366 #29] DEBUG -- : [Atatus] Adding metrics collector 'Atatus::Metrics::CpuMemSet'
+D, [2025-09-08T11:17:31.425277 #29] DEBUG -- : [Atatus] [PID:29]: Starting collector worker
+D, [2025-09-08T11:17:31.427999 #29] DEBUG -- : [Atatus] Adding metrics collector 'Atatus::Metrics::VMSet'
+D, [2025-09-08T11:17:31.428070 #29] DEBUG -- : [Atatus] Adding metrics collector 'Atatus::Metrics::BreakdownSet'
+D, [2025-09-08T11:17:31.428109 #29] DEBUG -- : [Atatus] Adding metrics collector 'Atatus::Metrics::TransactionSet'
+D, [2025-09-08T11:17:31.428136 #29] DEBUG -- : [Atatus] Starting metrics
+D, [2025-09-08T11:17:31.428804 #29] DEBUG -- : [Atatus] Collecting metrics
+D, [2025-09-08T11:17:31.435059 #29] DEBUG -- : [Atatus] Registering ActiveSupport::Notifications subscriber
+D, [2025-09-08T11:18:01.434588 #29] DEBUG -- : [Atatus] Collecting metrics
+D, [2025-09-08T11:18:31.455542 #29] DEBUG -- : [Atatus] Collecting metrics
+D, [2025-09-08T11:19:01.468041 #29] DEBUG -- : [Atatus] Collecting metrics
+D, [2025-09-08T11:19:31.483452 #29] DEBUG -- : [Atatus] Collecting metrics
+D, [2025-09-08T11:20:01.492316 #29] DEBUG -- : [Atatus] Collecting metrics
+D, [2025-09-08T11:20:31.501130 #29] DEBUG -- : [Atatus] Collecting metrics

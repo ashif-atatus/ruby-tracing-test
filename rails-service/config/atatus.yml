@@ -1,0 +1,5 @@
+production:
+  license_key: ${ATATUS_LICENSE_KEY}
+  app_name: ruby-tracing-test
+  analytics: true
+  log_path: atatus.log
